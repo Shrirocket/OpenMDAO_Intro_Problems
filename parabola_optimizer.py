@@ -33,6 +33,7 @@ prob.run_driver()
 # minimum value
 print(prob.get_val('parab.f_xy'))
 
+
 # location of the minimum
 print(prob.get_val('x'))
 print(prob.get_val('y'))
