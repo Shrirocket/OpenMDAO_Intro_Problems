@@ -79,20 +79,20 @@
                 <mxCell id="52" style="edgeStyle=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="50" target="2" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="50" value="Check energy &amp;amp; endurance for convergence" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+                <mxCell id="50" value="Check energy,&amp;nbsp; endurance, &amp;amp;&amp;nbsp; mass for convergence" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
                     <mxGeometry x="225" y="516" width="162" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="54" style="edgeStyle=none;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" source="53" target="14" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="53" value="database of COTS battery" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
+                <mxCell id="53" value="database of COTS battery &amp;amp; fuselage length" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
                     <mxGeometry x="60" y="243" width="144" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="56" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="55" target="19">
+                <mxCell id="61" style="edgeStyle=none;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="55" target="13">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="55" value="cruise velocity" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-                    <mxGeometry x="60" y="315" width="144" height="30" as="geometry"/>
+                <mxCell id="55" value="cruise velocity &amp;amp; total mass" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+                    <mxGeometry x="60" y="171" width="144" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="58" style="edgeStyle=none;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="57" target="20">
                     <mxGeometry relative="1" as="geometry"/>
