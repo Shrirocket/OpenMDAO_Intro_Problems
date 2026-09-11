@@ -114,7 +114,7 @@
 \node [DataInter] (Transition Dynamics-Battery and Mass) {$E_{transition}$};&
 \node [DataInter] (Transition Dynamics-Time) {$t_{transition}$};\\
 %Row 8
-&
+\node [DataIO] (left_output_Battery and Mass) {$MTOW^*, m_{battery}^*, E_{total}^*$};&
 &
 &
 \node [DataInter] (Battery and Mass-solverBAT) {$m_{battery}, E_{total}$};&
@@ -180,6 +180,7 @@
 (opt) edge [DataLine] (left_output_opt)
 (Cruise) edge [DataLine] (left_output_Cruise)
 (Ascend Descend) edge [DataLine] (left_output_Ascend Descend)
+(Battery and Mass) edge [DataLine] (left_output_Battery and Mass)
 (Time) edge [DataLine] (left_output_Time)
 % Vertical edges
 (opt-Aerodynamics) edge [DataLine] (Aerodynamics)

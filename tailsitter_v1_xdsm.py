@@ -46,6 +46,7 @@ x.connect("Time", "opt", "t_{total}")
 x.add_output("opt", "b^*, C_r^*, \lambda^*, \Lambda^*, C_l^*, C_d^*", side=LEFT)
 x.add_output("Cruise", "v_{cruise}^*", side=LEFT)
 x.add_output("Ascend Descend", "v_{climb}^*, v_{descend}^*", side=LEFT)
+x.add_output("Battery and Mass", "MTOW^*, m_{battery}^*, E_{total}^*", side=LEFT)
 
 
 x.add_output("Time", "t_{total}^*", side=LEFT)
